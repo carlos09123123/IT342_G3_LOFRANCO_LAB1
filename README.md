@@ -1,5 +1,5 @@
-<<<<<<< HEAD
-# IT342--Pawtopia
+
+# IT342--Zootopia
 
 # Pet Shop System
 Welcome to the Pet Shop System repository! 🚀
