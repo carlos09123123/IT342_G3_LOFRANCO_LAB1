@@ -1,0 +1,12 @@
+{
+  "name": "zootopia",
+  "version": "1.0.0",
+  "description": "# Pet Shop System Welcome to the Pet Shop System repository! 🚀 The Pet Shop System is designed to streamline operations and improve customer satisfaction for pet-related businesses. This platform integrates robust inventory management, simplified ordering processes, and appointment scheduling, all through an intuitive user interface. The website caters to both customers and store administrators by offering functionalities such as detailed product listings, filters for tailored searches, real-time booking for services, and comprehensive review systems to enhance transparency and trust.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
